@@ -26,4 +26,6 @@ https://github.com/tyleransom/public-county-data/blob/master/data/county-combine
 
 ##### 2. Alternatively, download all raw files in the folder Data/Replication Data.
 
-##### 3. Alternatively, download my cleaned .CSV (i.e., through line 374 of the R script) from the Data/Cleaned Data folder. 
+##### 3. Alternatively, download my cleaned .CSV (i.e., through line 374 of the R script) from the Data/Cleaned Data folder.
+
+##### 4. Use the .R script to clean data, produce images/charts, and run models. 
