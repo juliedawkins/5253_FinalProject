@@ -8,7 +8,7 @@ https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?gotoReportId=7&fromIpeds=tru
 and download the HD(year).zip files from 2018-2022 and the distance learning files (usually 
 starting with "effy"). When you open the zips for the distance learning files, keep the CSVs 
 with .rv (the revised versions). Unzipping the HD(year) files is not necessary. 
-- Go to the following link from HUD: : 
+- Go to the following link from HUD: 
 https://www.huduser.gov/portal/datasets/50per.html#year2022 and download the Excel files for 
 2017-2022. 
 - Go to the following US Census link: 
